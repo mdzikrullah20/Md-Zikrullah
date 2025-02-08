@@ -66,7 +66,16 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=MdZikrullah&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+# Welcome to My GitHub Profile
+
+## GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Azharuddin02&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## Achievements:
+![](https://github-profile-trophy.vercel.app/?username=Md-Azharuddin02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+Feel free to explore my repositories and connect with me!
+
 
 ---
 ### ✍️ Random Developer Quote:
