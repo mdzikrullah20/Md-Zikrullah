@@ -57,9 +57,10 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 ---
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdZikrullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdZikrullah&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&hide_border=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdZikrullah&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdZikrullah&theme=dark&hide_border=true)
+
 
 
 
