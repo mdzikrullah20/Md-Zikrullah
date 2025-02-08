@@ -35,7 +35,7 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 - SQL Server, Git 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-zikrullah) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdzikrullah042004@gmail.com)
 
@@ -67,6 +67,10 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=MdZikrullah&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+### ✍️ Random Developer Quote:
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
