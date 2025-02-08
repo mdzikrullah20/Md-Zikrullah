@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 **I’m currently working on**  
-Designing and implementing dynamic, user-friendly web interfaces as a Software Engineer at M&S Consulting. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
+Designing and implementing dynamic, user-friendly web interfaces as a Software Engineer at LeopardRuns Innovation & Technology. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
 
 👯 **I’m looking to collaborate on**  
 Projects that require expertise in React.js, REST API integration, and responsive UI/UX designs. If you're innovating in scalable web applications or video platform development, let’s collaborate!
@@ -23,22 +23,21 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 
 ### 🚀 Technical Skills:
 **Languages:**  
-- JavaScript, Python, C, Java, Node.js  
+- JavaScript, C, Java, Node.js  
 
 **Web Development:**  
-- React.js, Redux, HTML5, CSS3, Bootstrap, Django, REST APIs  
+- React.js, Redux, Express Js, HTML5, CSS3, Bootstrap, REST APIs  
 
 **Databases:**  
 - MySQL, MongoDB  
 
 **Cloud & Tools:**  
-- AWS, Splunk, SQL Server, Git 
+- SQL Server, Git 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-zikrullah) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdzikrullah042004@gmail.com)
-
 
 ---
 
