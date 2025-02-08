@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 **I’m currently working on**  
-Designing and implementing dynamic, user-friendly web interfaces as a Software Engineer at LeopardRuns Innovation & Technology. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
+Designing and implementing dynamic, user-friendly web interfaces as a Software Developer Intern at LeopardRuns Innovation & Technology. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
 
 👯 **I’m looking to collaborate on**  
 Projects that require expertise in React.js, REST API integration, and responsive UI/UX designs. If you're innovating in scalable web applications or video platform development, let’s collaborate!
