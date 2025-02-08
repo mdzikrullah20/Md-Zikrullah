@@ -25,10 +25,9 @@ I’m a **Full Stack Developer** specializing in **React.js**, **JavaScript**, a
 ---
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdZikrullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdZikrullah&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZikrullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAzharuddin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzharuddin&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAzharuddin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
