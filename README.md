@@ -61,9 +61,6 @@ I’m passionate about turning ideas into impactful digital solutions, as shown 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdZikrullah&theme=dark&hide_border=true)
 
-
-
-
 ---
 
 ## 🏆 GitHub Trophies:
