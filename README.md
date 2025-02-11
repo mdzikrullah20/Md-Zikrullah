@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Myselft
 
 🔭 **I’m currently working on**  
 Designing and implementing dynamic, user-friendly web interfaces as a Software Developer Intern at LeopardRuns Innovation & Technology. My work focuses on leveraging React.js and Redux Toolkit to create scalable, efficient web solutions with seamless API integrations.
